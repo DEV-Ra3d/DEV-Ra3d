@@ -41,7 +41,7 @@ Used Languages
 
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
-<a href="https://t.me/RA_RC"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.MODY&message=TG&color=blue-green"></a>
+<a href="https://t.me/RA_RC"><img title="Telegram" src="https://img.shields.io/static/v1?label=DEV-RA3D&message=TG&color=blue-green"></a>
 
 <b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
 
